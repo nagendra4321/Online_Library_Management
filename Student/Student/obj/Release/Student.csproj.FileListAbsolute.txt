@@ -1,0 +1,6 @@
+D:\se\project\New folder\Student\Student\bin\Student.dll.config
+D:\se\project\New folder\Student\Student\bin\Student.dll
+D:\se\project\New folder\Student\Student\bin\Student.pdb
+D:\se\project\New folder\Student\Student\bin\AjaxMin.dll
+D:\se\project\New folder\Student\Student\obj\Release\Student.dll
+D:\se\project\New folder\Student\Student\obj\Release\Student.pdb

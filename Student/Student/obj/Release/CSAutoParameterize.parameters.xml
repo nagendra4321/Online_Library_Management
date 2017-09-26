@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="libraryconnection-Web.config Connection String" description="libraryconnection Connection String used in web.config by the application to access the database." defaultValue="data source=(local);database=library;integrated security=SSPI" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\se\\project\\New\ folder\\Student\\Student\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='libraryconnection']/@connectionString" />
+  </parameter>
+  <parameter name="libraryConnectionString-Web.config Connection String" description="libraryConnectionString Connection String used in web.config by the application to access the database." defaultValue="Data Source=(local);Initial Catalog=library;Integrated Security=True" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="D:\\se\\project\\New\ folder\\Student\\Student\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='libraryConnectionString']/@connectionString" />
+  </parameter>
+</parameters>

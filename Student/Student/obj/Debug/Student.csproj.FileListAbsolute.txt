@@ -1,0 +1,147 @@
+E:\551\Student\Student\bin\Student.dll
+E:\551\Student\Student\bin\Student.pdb
+E:\551\Student\Student\obj\Debug\Student.csprojResolveAssemblyReference.cache
+E:\551\Student\Student\obj\Debug\Student.dll
+E:\551\Student\Student\obj\Debug\Student.pdb
+E:\551\Student\Student\bin\AjaxControlToolkit.dll
+E:\551\Student\Student\bin\Microsoft.WindowsAzure.Storage.dll
+E:\551\Student\Student\bin\HtmlAgilityPack.dll
+E:\551\Student\Student\bin\AjaxMin.dll
+E:\551\Student\Student\bin\Microsoft.Data.OData.dll
+E:\551\Student\Student\bin\Microsoft.Data.Edm.dll
+E:\551\Student\Student\bin\System.Spatial.dll
+E:\551\Student\Student\bin\AjaxControlToolkit.pdb
+E:\551\Student\Student\bin\Microsoft.WindowsAzure.Storage.xml
+E:\551\Student\Student\bin\Microsoft.Data.OData.xml
+E:\551\Student\Student\bin\Microsoft.Data.Edm.xml
+E:\551\Student\Student\bin\System.Spatial.xml
+E:\551\Student\Student\bin\ar\AjaxControlToolkit.resources.dll
+E:\551\Student\Student\bin\cs\AjaxControlToolkit.resources.dll
+E:\551\Student\Student\bin\de\AjaxControlToolkit.resources.dll
+E:\551\Student\Student\bin\es\AjaxControlToolkit.resources.dll
+E:\551\Student\Student\bin\fr\AjaxControlToolkit.resources.dll
+E:\551\Student\Student\bin\he\AjaxControlToolkit.resources.dll
+E:\551\Student\Student\bin\hi\AjaxControlToolkit.resources.dll
+E:\551\Student\Student\bin\it\AjaxControlToolkit.resources.dll
+E:\551\Student\Student\bin\ja\AjaxControlToolkit.resources.dll
+E:\551\Student\Student\bin\ko\AjaxControlToolkit.resources.dll
+E:\551\Student\Student\bin\nl\AjaxControlToolkit.resources.dll
+E:\551\Student\Student\bin\pl\AjaxControlToolkit.resources.dll
+E:\551\Student\Student\bin\pt\AjaxControlToolkit.resources.dll
+E:\551\Student\Student\bin\ru\AjaxControlToolkit.resources.dll
+E:\551\Student\Student\bin\tr-TR\AjaxControlToolkit.resources.dll
+E:\551\Student\Student\bin\zh-CHS\AjaxControlToolkit.resources.dll
+E:\551\Student\Student\bin\zh-CHT\AjaxControlToolkit.resources.dll
+E:\551\Student\Student\bin\de\Microsoft.Data.OData.resources.dll
+E:\551\Student\Student\bin\es\Microsoft.Data.OData.resources.dll
+E:\551\Student\Student\bin\fr\Microsoft.Data.OData.resources.dll
+E:\551\Student\Student\bin\it\Microsoft.Data.OData.resources.dll
+E:\551\Student\Student\bin\ja\Microsoft.Data.OData.resources.dll
+E:\551\Student\Student\bin\ko\Microsoft.Data.OData.resources.dll
+E:\551\Student\Student\bin\ru\Microsoft.Data.OData.resources.dll
+E:\551\Student\Student\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\551\Student\Student\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\551\Student\Student\bin\de\Microsoft.Data.Edm.resources.dll
+E:\551\Student\Student\bin\es\Microsoft.Data.Edm.resources.dll
+E:\551\Student\Student\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\551\Student\Student\bin\it\Microsoft.Data.Edm.resources.dll
+E:\551\Student\Student\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\551\Student\Student\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\551\Student\Student\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\551\Student\Student\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\551\Student\Student\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\551\Student\Student\bin\de\System.Spatial.resources.dll
+E:\551\Student\Student\bin\es\System.Spatial.resources.dll
+E:\551\Student\Student\bin\fr\System.Spatial.resources.dll
+E:\551\Student\Student\bin\it\System.Spatial.resources.dll
+E:\551\Student\Student\bin\ja\System.Spatial.resources.dll
+E:\551\Student\Student\bin\ko\System.Spatial.resources.dll
+E:\551\Student\Student\bin\ru\System.Spatial.resources.dll
+E:\551\Student\Student\bin\zh-Hans\System.Spatial.resources.dll
+E:\551\Student\Student\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\CSE304\Desktop\551\Student\Student\bin\Student.dll
+C:\Users\CSE304\Desktop\551\Student\Student\bin\Student.pdb
+C:\Users\CSE304\Desktop\551\Student\Student\bin\Microsoft.WindowsAzure.Storage.dll
+C:\Users\CSE304\Desktop\551\Student\Student\bin\HtmlAgilityPack.dll
+C:\Users\CSE304\Desktop\551\Student\Student\bin\AjaxMin.dll
+C:\Users\CSE304\Desktop\551\Student\Student\bin\Microsoft.Data.OData.dll
+C:\Users\CSE304\Desktop\551\Student\Student\bin\Microsoft.Data.Edm.dll
+C:\Users\CSE304\Desktop\551\Student\Student\bin\System.Spatial.dll
+C:\Users\CSE304\Desktop\551\Student\Student\bin\AjaxControlToolkit.pdb
+C:\Users\CSE304\Desktop\551\Student\Student\bin\Microsoft.WindowsAzure.Storage.xml
+C:\Users\CSE304\Desktop\551\Student\Student\bin\Microsoft.Data.OData.xml
+C:\Users\CSE304\Desktop\551\Student\Student\bin\Microsoft.Data.Edm.xml
+C:\Users\CSE304\Desktop\551\Student\Student\bin\System.Spatial.xml
+C:\Users\CSE304\Desktop\551\Student\Student\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\CSE304\Desktop\551\Student\Student\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\CSE304\Desktop\551\Student\Student\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\CSE304\Desktop\551\Student\Student\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\CSE304\Desktop\551\Student\Student\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\CSE304\Desktop\551\Student\Student\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\CSE304\Desktop\551\Student\Student\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\CSE304\Desktop\551\Student\Student\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\CSE304\Desktop\551\Student\Student\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\CSE304\Desktop\551\Student\Student\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\CSE304\Desktop\551\Student\Student\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\CSE304\Desktop\551\Student\Student\bin\pl\AjaxControlToolkit.resources.dll
+C:\Users\CSE304\Desktop\551\Student\Student\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\CSE304\Desktop\551\Student\Student\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\CSE304\Desktop\551\Student\Student\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\CSE304\Desktop\551\Student\Student\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\CSE304\Desktop\551\Student\Student\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\CSE304\Desktop\551\Student\Student\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\CSE304\Desktop\551\Student\Student\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\CSE304\Desktop\551\Student\Student\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\CSE304\Desktop\551\Student\Student\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\CSE304\Desktop\551\Student\Student\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\CSE304\Desktop\551\Student\Student\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\CSE304\Desktop\551\Student\Student\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\CSE304\Desktop\551\Student\Student\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\CSE304\Desktop\551\Student\Student\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\CSE304\Desktop\551\Student\Student\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\CSE304\Desktop\551\Student\Student\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\CSE304\Desktop\551\Student\Student\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\CSE304\Desktop\551\Student\Student\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\CSE304\Desktop\551\Student\Student\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\CSE304\Desktop\551\Student\Student\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\CSE304\Desktop\551\Student\Student\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\CSE304\Desktop\551\Student\Student\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\CSE304\Desktop\551\Student\Student\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\CSE304\Desktop\551\Student\Student\bin\de\System.Spatial.resources.dll
+C:\Users\CSE304\Desktop\551\Student\Student\bin\es\System.Spatial.resources.dll
+C:\Users\CSE304\Desktop\551\Student\Student\bin\fr\System.Spatial.resources.dll
+C:\Users\CSE304\Desktop\551\Student\Student\bin\it\System.Spatial.resources.dll
+C:\Users\CSE304\Desktop\551\Student\Student\bin\ja\System.Spatial.resources.dll
+C:\Users\CSE304\Desktop\551\Student\Student\bin\ko\System.Spatial.resources.dll
+C:\Users\CSE304\Desktop\551\Student\Student\bin\ru\System.Spatial.resources.dll
+C:\Users\CSE304\Desktop\551\Student\Student\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\CSE304\Desktop\551\Student\Student\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\CSE304\Desktop\551\Student\Student\obj\Debug\Student.csprojResolveAssemblyReference.cache
+C:\Users\CSE304\Desktop\551\Student\Student\obj\Debug\Student.dll
+C:\Users\CSE304\Desktop\551\Student\Student\obj\Debug\Student.pdb
+C:\Users\CSE304\Desktop\551\Student\Student\bin\AjaxControlToolkit.dll
+E:\551\new project\Student\Student\bin\Student.dll
+E:\551\new project\Student\Student\bin\Student.pdb
+E:\551\new project\Student\Student\obj\Debug\Student.dll
+E:\551\new project\Student\Student\obj\Debug\Student.pdb
+E:\551\new project\Student\Student\bin\AjaxMin.dll
+E:\551\new project\Student\Student\obj\Debug\Student.csprojResolveAssemblyReference.cache
+F:\551\new project\Student\Student\bin\Student.dll
+F:\551\new project\Student\Student\bin\Student.pdb
+F:\551\new project\Student\Student\bin\AjaxMin.dll
+F:\551\new project\Student\Student\obj\Debug\Student.csprojResolveAssemblyReference.cache
+F:\551\new project\Student\Student\obj\Debug\Student.dll
+F:\551\new project\Student\Student\obj\Debug\Student.pdb
+C:\Users\AjithKumar\Desktop\comp\Student\Student\bin\Student.dll
+C:\Users\AjithKumar\Desktop\comp\Student\Student\bin\Student.pdb
+C:\Users\AjithKumar\Desktop\comp\Student\Student\bin\AjaxMin.dll
+C:\Users\AjithKumar\Desktop\comp\Student\Student\obj\Debug\Student.csprojResolveAssemblyReference.cache
+C:\Users\AjithKumar\Desktop\comp\Student\Student\obj\Debug\Student.dll
+C:\Users\AjithKumar\Desktop\comp\Student\Student\obj\Debug\Student.pdb
+D:\se\project\New folder\Student\Student\bin\Student.dll.config
+D:\se\project\New folder\Student\Student\bin\Student.dll
+D:\se\project\New folder\Student\Student\bin\Student.pdb
+D:\se\project\New folder\Student\Student\bin\AjaxMin.dll
+D:\se\project\New folder\Student\Student\obj\Debug\Student.csprojResolveAssemblyReference.cache
+D:\se\project\New folder\Student\Student\obj\Debug\Student.dll
+D:\se\project\New folder\Student\Student\obj\Debug\Student.pdb
